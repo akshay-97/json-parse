@@ -1,0 +1,17 @@
+profile = conventional
+margin = 100
+exp-grouping = preserve
+doc-comments = before
+doc-comments-padding = 2
+break-cases = all
+cases-exp-indent = 2
+break-fun-decl = fit-or-vertical
+break-separators = before
+space-around-arrays = true
+space-around-lists = true
+space-around-records = true
+type-decl = sparse
+field-space = loose
+sequence-style = separator
+if-then-else = keyword-first
+let-and = sparse
